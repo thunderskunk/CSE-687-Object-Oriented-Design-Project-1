@@ -5,7 +5,7 @@ using std::endl;
 
 // default constructor 
 // initialize our data to something meaningful
-Map::Test()
+void Map::Test()
 {
 	cout << "/nPotato/n";
 }
