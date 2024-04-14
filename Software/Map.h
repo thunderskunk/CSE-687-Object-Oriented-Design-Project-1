@@ -19,14 +19,14 @@ class Map
 {
 public:
 
-	// create a constructor that will initiate the private data varibale monthlyExpenses with the reference userSuppliedNumberOfExpenses
-	Map()
-		:
+	Map(int morestuff)
+		: stuff(morestuff)
 	{}
 
 	void Test();
 
 private:
 
+	int stuff;
 };
 
