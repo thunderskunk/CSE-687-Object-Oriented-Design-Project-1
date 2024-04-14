@@ -20,8 +20,9 @@ class Map
 public:
 
 	// create a constructor that will initiate the private data varibale monthlyExpenses with the reference userSuppliedNumberOfExpenses
-	Map()
-	{std::cout << "Potatos" }
+	Map();
+
+	void Test();
 
 private:
 
