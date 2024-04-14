@@ -8,9 +8,9 @@ int main()
 {
     std::cout << "Hello World???!\n";
 
-    Map fuck();
+    Map mymap();
 
-    fuck.Test();
+    mymap.Test();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
